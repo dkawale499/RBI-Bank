@@ -2,7 +2,7 @@ package com.rbi.baroda;
 
 import org.springframework.stereotype.Component;
 
-@Component
+//@Component
 public class BarodaBank 
 {
 	public BarodaBank()
